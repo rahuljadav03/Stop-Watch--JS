@@ -1,0 +1,28 @@
+@media screen and (max-width:600px) {
+      
+    .countainer{
+        height: 80vmin;
+        border-radius: 10vmin;
+    }
+
+    .gamename{
+        font-size: 9vmin;
+    }
+    
+    .unit{
+        font-weight: 700;
+    }
+    
+    .btn{
+        width: 20vmin;
+        height: 9vmin;
+        font-size:4vw;
+    }
+
+    .btns{
+        margin-top: 5vmin;
+        display: flex;
+        gap: 10px;
+    }
+    
+}
